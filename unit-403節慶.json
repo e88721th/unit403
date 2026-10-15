@@ -1,0 +1,599 @@
+[
+  {
+    "id": 1,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "正月十五元宵節又稱為？",
+    "options": ["清明節", "上元節", "中元節", "端午節"],
+    "answer": 1,
+    "explanation": "正月十五元宵節又稱為上元節。"
+  },
+  {
+    "id": 2,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪項是元宵節當天的活動？",
+    "options": ["提燈籠", "拿紅包", "吃春捲", "吃粽子"],
+    "answer": 0,
+    "explanation": "元宵節當天的活動包括提燈籠。"
+  },
+  {
+    "id": 3,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "鹽水蜂炮是在哪個地方舉辦？",
+    "options": ["台北市", "高雄市", "台南市", "新北市"],
+    "answer": 2,
+    "explanation": "鹽水蜂炮是在台南市舉行的傳統活動。"
+  },
+  {
+    "id": 4,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "元宵節當天,在台東市舉辦的特別活動是？",
+    "options": ["提燈籠", "放天燈", "花燈遊行", "炸寒單爺"],
+    "answer": 3,
+    "explanation": "台東市在元宵節當天舉辦炸寒單爺的特別活動。"
+  },
+  {
+    "id": 5,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「清明節」當天我們會吃？",
+    "options": ["蛋餅", "蛋捲", "潤餅", "年菜"],
+    "answer": 2,
+    "explanation": "在清明節當天，我們會吃潤餅。"
+  },
+  {
+    "id": 6,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「冬至」當天我們會吃？",
+    "options": ["湯餃", "湯圓", "元宵", "年菜"],
+    "answer": 1,
+    "explanation": "在冬至當天，我們會吃湯圓。"
+  },
+  {
+    "id": 7,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "哪一個節日會喝「雄黃酒」？",
+    "options": ["春節", "清明節", "端午節", "重陽節"],
+    "answer": 2,
+    "explanation": "端午節是會喝雄黃酒的傳統節日。"
+  },
+  {
+    "id": 8,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "農曆七月十五日又叫什麼節日？",
+    "options": ["七巧節", "中秋節", "情人節", "中元節"],
+    "answer": 3,
+    "explanation": "農曆七月十五日又稱為中元節。"
+  },
+  {
+    "id": 9,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "哪一個節日有「插菖蒲」的習俗？",
+    "options": ["重陽節", "清明節", "端午節", "下元節"],
+    "answer": 2,
+    "explanation": "插菖蒲的習俗是在端午節。"
+  },
+  {
+    "id": 10,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "哪一個節日有「放風箏」的傳統活動？",
+    "options": ["中秋節", "重陽節", "元宵節", "清明節"],
+    "answer": 1,
+    "explanation": "重陽節有放風箏的傳統活動。"
+  },
+  {
+    "id": 11,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "哪一個節日又叫「老人節」？",
+    "options": ["春節", "清明節", "端午節", "重陽節"],
+    "answer": 3,
+    "explanation": "重陽節又稱為老人節，旨在感謝老人的辛勞。"
+  },
+  {
+    "id": 12,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "哪一個節日會「猜燈謎」？",
+    "options": ["元宵節", "春節", "端午節", "中元節"],
+    "answer": 0,
+    "explanation": "元宵節是會猜燈謎的節日。"
+  },
+  {
+    "id": 13,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "哪一個節日會「賞花燈」？",
+    "options": ["春節", "清明節", "元宵節", "中秋節"],
+    "answer": 2,
+    "explanation": "元宵節是會賞花燈的節日。"
+  },
+  {
+    "id": 14,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "農曆八月十五日是什麼節日？",
+    "options": ["中秋節", "中元節", "端午節", "重陽節"],
+    "answer": 0,
+    "explanation": "農曆八月十五日又稱為中秋節。"
+  },
+  {
+    "id": 15,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "哪一個節日會吃「粽子」？",
+    "options": ["春節", "清明節", "端午節", "重陽節"],
+    "answer": 2,
+    "explanation": "端午節是會吃粽子的傳統節日。"
+  },
+  {
+    "id": 16,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "哪一個節日會喝「菊花酒」？",
+    "options": ["春節", "清明節", "端午節", "重陽節"],
+    "answer": 3,
+    "explanation": "重陽節是會喝菊花酒的傳統節日。"
+  },
+  {
+    "id": 17,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "哪一個節日會吃「柚子」？",
+    "options": ["中秋節", "清明節", "端午節", "重陽節"],
+    "answer": 0,
+    "explanation": "中秋節是會吃柚子的節日。"
+  },
+  {
+    "id": 18,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "哪一個節日會「掃墓」？",
+    "options": ["中秋節", "清明節", "端午節", "重陽節"],
+    "answer": 1,
+    "explanation": "清明節是會掃墓的節日，主要是祭奠先人。"
+  },
+  {
+    "id": 19,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「春節」的主要活動有哪些？",
+    "options": ["祭祖、拜年、舞龍舞獅", "賞花燈、提燈籠", "吃粽子、划龍舟、喝雄黃酒", "禁火寒食、吃潤餅"],
+    "answer": 0,
+    "explanation": "「春節」主要活動包括祭祖、拜年、舞龍舞獅、放鞭炮等。"
+  },
+  {
+    "id": 20,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「元宵節」又稱為什麼？",
+    "options": ["上元節", "過年", "寒食節", "清明節"],
+    "answer": 0,
+    "explanation": "「元宵節」又稱為上元節、燈節，也稱為小過年。"
+  },
+  {
+    "id": 21,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「寒食節」的由來與下列何者有關？",
+    "options": ["屈原", "嫦娥", "介之推", "孔子"],
+    "answer": 2,
+    "explanation": "「寒食節」的由來是晉文公為求介之推而焚林，介之推抱木而死，舉國哀悼。"
+  },
+  {
+    "id": 22,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「清明節」的主要活動是什麼？",
+    "options": ["掃墓祭祖", "賞花燈", "放天燈", "登高、放風箏"],
+    "answer": 0,
+    "explanation": "「清明節」的最重要活動就是掃墓祭祖。"
+  },
+  {
+    "id": 23,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「清明節」日期並不是固定的，大多時候的清明節日期是？",
+    "options": ["國曆四月四日或五日", "農曆正月初一", "農曆四月四日或五日", "農曆一月十五日"],
+    "answer": 0,
+    "explanation": "「清明節」通常在國曆四月四日或五日。"
+  },
+  {
+    "id": 24,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "春節期間大年初二是什麼特別的日子？",
+    "options": ["出嫁女兒回娘家", "祭祖的日子", "商家開張大吉", "掃墓的日子"],
+    "answer": 0,
+    "explanation": "春節的初二是出嫁女兒回娘家的日子。"
+  },
+  {
+    "id": 25,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "元宵節時，民眾會吃的傳統食物是？",
+    "options": ["潤餅", "元宵", "餃子", "年糕"],
+    "answer": 1,
+    "explanation": "元宵節時，民眾會吃的傳統食物是元宵。"
+  },
+  {
+    "id": 26,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "元宵節時，新北市平溪區有哪項具代表性的傳統民俗活動？",
+    "options": ["放水燈", "搶孤", "放天燈", "炸寒單爺"],
+    "answer": 2,
+    "explanation": "新北市平溪區天燈節，民眾將祈福心願寫在天燈上，象徵「上達天聽」與祈求平安。"
+  },
+  {
+    "id": 27,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "元宵節的活動中，哪一項不是傳統活動？",
+    "options": ["賞花燈", "猜燈謎", "放煙火", "提燈籠"],
+    "answer": 2,
+    "explanation": "放煙火不是元宵節的傳統活動，傳統活動包括賞花燈、猜燈謎和提燈籠。"
+  },
+  {
+    "id": 28,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "寒食節的禁火原因是什麼？",
+    "options": ["為了紀念介之推", "慶祝春天的到來", "尊敬祖先、不忘本", "避免火災"],
+    "answer": 0,
+    "explanation": "寒食節的禁火原因是為了紀念介之推。"
+  },
+  {
+    "id": 29,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "清明節的掃墓活動通常是為了什麼？",
+    "options": ["祭奠先人", "慶祝豐收", "祈求平安", "迎接新年"],
+    "answer": 0,
+    "explanation": "清明節的掃墓活動通常是為了祭奠先人，表達對已故親人的懷念。"
+  },
+  {
+    "id": 30,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "元宵節的燈會主要在什麼時候舉辦？",
+    "options": ["正月初一", "正月十五", "農曆三月初", "清明前一、二日"],
+    "answer": 1,
+    "explanation": "元宵節的燈會主要在農曆正月十五舉辦。"
+  },
+  {
+    "id": 31,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "春節期間，初四是什麼日子？",
+    "options": ["祭祖的日子", "諸神返回人間的日子", "出嫁女兒回娘家的日子", "商家開張大吉"],
+    "answer": 1,
+    "explanation": "春節大年初四是傳統習俗中的「接神日」（迎神日）與「迎財神」的日子。"
+  },
+  {
+    "id": 32,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "元宵節時在台南市鹽水區會舉辦哪種活動？",
+    "options": ["炸寒單", "蜂炮", "放天燈", "放水燈"],
+    "answer": 1,
+    "explanation": "台南鹽水蜂炮是台灣著名的元宵節民俗盛事。"
+  },
+  {
+    "id": 32,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "在清明節，人們會吃什麼食物？",
+    "options": ["潤餅", "湯圓", "粽子", "年糕"],
+    "answer": 0,
+    "explanation": "在清明節，人們會吃潤餅或春捲。"
+  },
+  {
+    "id": 33,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「端午節」的由來是為了紀念誰？",
+    "options": ["屈原", "牛郎", "朱洪武", "劉伯溫"],
+    "answer": 0,
+    "explanation": "「端午節」是紀念戰國時期楚國三閭大夫屈原。"
+  },
+  {
+    "id": 34,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「七夕」又稱為什麼？",
+    "options": ["端午節", "情人節", "中秋節", "重陽節"],
+    "answer": 1,
+    "explanation": "「七夕」又稱為情人節，紀念牛郎織女相會日。"
+  },
+  {
+    "id": 35,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「中元節」的主要活動是什麼？",
+    "options": ["普度", "龍舟競賽", "賞月", "登山"],
+    "answer": 0,
+    "explanation": "中元節的主要活動是普度。"
+  },
+  {
+    "id": 36,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "傳說故事中，哪個與「中秋節」節日相關？",
+    "options": ["后羿射日", "白蛇傳", "嫦娥奔月", "牛郎織女"],
+    "answer": 2,
+    "explanation": "嫦娥奔月的傳說與中秋節有關，並且中秋節是團圓的日子。"
+  },
+  {
+    "id": 37,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「重陽節」又稱為什麼？",
+    "options": ["老人節", "情人節", "掃墓節", "元宵節"],
+    "answer": 0,
+    "explanation": "重陽節又稱為老人節，旨在感謝老人的辛勞。"
+  },
+  {
+    "id": 38,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「端午節」的主要習俗有哪些？",
+    "options": ["吃粽子、競龍舟", "賞花燈、提燈籠", "掃墓、吃潤餅", "放風箏、賞菊花"],
+    "answer": 0,
+    "explanation": "端午節的主要習俗包括吃粽子和競龍舟等。"
+  },
+  {
+    "id": 39,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「七夕」那天的主要活動是什麼？",
+    "options": ["祭拜七娘媽", "放水燈", "競龍舟", "賞月"],
+    "answer": 0,
+    "explanation": "七夕的主要活動是婦女穿七孔針祭拜七娘媽以求巧藝。"
+  },
+  {
+    "id": 40,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「中元節」是在農曆幾月？",
+    "options": ["農曆七月", "農曆八月", "農曆九月", "農曆五月"],
+    "answer": 0,
+    "explanation": "中元節是地官大帝的生日，農曆七月十五日。"
+  },
+  {
+    "id": 41,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「中秋節」時，民眾一般會吃什麼食物？",
+    "options": ["粽子", "月餅", "湯圓", "春捲"],
+    "answer": 1,
+    "explanation": "中秋節的主要食物是月餅，象徵團圓和祝福。"
+  },
+  {
+    "id": 42,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "農曆九月九日是一個特殊的節日,其中「九」有什麼特殊的意義？",
+    "options": ["長久、長壽", "短暫", "無意義", "不重要"],
+    "answer": 0,
+    "explanation": "「九」在中國文化中代表長久和長壽，因此重陽節又被稱為老人節。"
+  },
+  {
+    "id": 43,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「端午節」時，人們會插什麼植物以驅邪？",
+    "options": ["菖蒲、艾草", "茱萸", "桂花", "桃花"],
+    "answer": 0,
+    "explanation": "端午節時，人們會插菖蒲和艾草以驅邪避邪。"
+  },
+  {
+    "id": 44,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「端午節」又稱為什麼節？",
+    "options": ["老人節", "詩人節", "軍人節", "愚人節"],
+    "answer": 1,
+    "explanation": "端午節又稱為詩人節。"
+  },
+  {
+    "id": 45,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「重陽節」的傳統活動中，包括哪一項？",
+    "options": ["登高", "放煙火", "吃粽子", "提燈籠"],
+    "answer": 0,
+    "explanation": "重陽節的傳統活動包括祭祖、賞菊花、喝菊花酒、登高和放風箏。"
+  },
+  {
+    "id": 46,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "傳說「七夕」那一天,哪種動物會用牠們的身體搭起一座橋,讓分離一整年的牛郎和織女在橋上相會？",
+    "options": ["貓頭鷹", "天鵝", "蝙蝠", "喜鵲"],
+    "answer": 3,
+    "explanation": "傳說在「七夕」這一天，喜鵲會飛上天河，用牠們的身體搭起一座「鵲橋」。"
+  },
+  {
+    "id": 47,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「端午節」時,應景的食物是下列哪一種？",
+    "options": ["月餅", "湯圓", "粽子", "春捲"],
+    "answer": 2,
+    "explanation": "端午節的主要食物是粽子，象徵著對屈原的紀念。"
+  },
+  {
+    "id": 48,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「端午節」時，人們會喝什麼酒？",
+    "options": ["雄黃酒", "菊花酒", "小米酒", "高梁酒"],
+    "answer": 0,
+    "explanation": "端午節時，人們會喝雄黃酒，這是傳統習俗之一。"
+  },
+  {
+    "id": 49,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「中元節」又稱為什麼？",
+    "options": ["盂蘭盆節", "重陽節", "春節", "元宵節"],
+    "answer": 0,
+    "explanation": "中元節又稱為盂蘭盆節，主要是祭祀亡靈。"
+  },
+  {
+    "id": 50,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「中元節」的傳統活動中，哪一項是常見的？",
+    "options": ["搶孤", "競龍舟", "賞月", "吃粽子"],
+    "answer": 0,
+    "explanation": "在中元節，搶孤是盛行的活動之一。"
+  },
+  {
+    "id": 51,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「中秋節」時吃的水果是哪種水果？",
+    "options": ["榴槤", "文旦", "蘋果", "橘子"],
+    "answer": 1,
+    "explanation": "中秋節吃的水果是柚子,也叫文旦。"
+  },
+  {
+    "id": 52,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「重陽節」的主要飲品是什麼？",
+    "options": ["菊花酒", "雄黃酒", "小米酒", "雞尾酒"],
+    "answer": 0,
+    "explanation": "重陽節的傳統飲品是菊花酒。"
+  },
+  {
+    "id": 53,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「尾牙」是什麼時候舉行的？",
+    "options": ["農曆十二月十六日", "農曆七月十五日", "農曆八月十五日", "農曆五月五日"],
+    "answer": 0,
+    "explanation": "尾牙是在農曆十二月十六日舉行，是老闆感謝員工的一個活動。"
+  },
+  {
+    "id": 54,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「冬至」又稱為什麼？",
+    "options": ["冬節", "春節", "重陽節", "元宵節"],
+    "answer": 0,
+    "explanation": "冬至又稱為冬節，是北半球白天最短的日子。"
+  },
+  {
+    "id": 55,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「除夕」的主要活動是什麼？",
+    "options": ["吃團圓飯", "搶孤", "賞月", "放水燈"],
+    "answer": 0,
+    "explanation": "除夕的主要活動是全家團聚吃團圓飯，迎接新年。"
+  },
+  {
+    "id": 56,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「除夕」時，人們會祭拜哪位神明？",
+    "options": ["天公", "地官大帝", "城隍", "媽祖"],
+    "answer": 0,
+    "explanation": "除夕時，人們會拜天公（玉皇大帝）以祈求來年的平安。"
+  },
+  {
+    "id": 57,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「冬至」的傳統食物是什麼？",
+    "options": ["湯圓", "月餅", "粽子", "春捲"],
+    "answer": 0,
+    "explanation": "冬至時，人們會搓湯圓和吃湯圓，象徵團圓。"
+  },
+  {
+    "id": 58,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「端午節」的傳統習俗包括哪些？",
+    "options": ["競龍舟、吃粽子", "賞菊花、登山", "賞月、吃月餅", "放水燈、搶孤"],
+    "answer": 0,
+    "explanation": "端午節的傳統習俗包括競龍舟和吃粽子。"
+  },
+  {
+    "id": 59,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「中秋節」的傳說中，月亮裡有哪個角色？",
+    "options": ["嫦娥", "吳剛", "玉兔", "前面三者都有"],
+    "answer": 3,
+    "explanation": "中秋節的傳說中，月亮裡有嫦娥、吳剛和玉兔等角色。"
+  },
+  {
+    "id": 60,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「重陽節」時,人們會在身上佩戴哪種植物辟邪、驅蟲和祈求平安？",
+    "options": ["蒲公英", "茱萸", "向日葵", "玫瑰"],
+    "answer": 1,
+    "explanation": "重陽節的傳統習俗,有祭祀祖先、登高、放風箏、賞菊花、佩茱萸、飲菊花酒。"
+  },
+  {
+    "id": 61,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "臺灣人稱為「做牙」的活動，其實就是祭拜哪個神明？",
+    "options": ["玉皇大帝", "媽祖", "土地公", "關公"],
+    "answer": 2,
+    "explanation": "臺灣人每逢初一、十五或初二、十六都會祭拜土地公，稱做「做牙」。"
+  },
+  {
+    "id": 62,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「冬至」這一天,在北半球有什麼特徵？",
+    "options": ["晝短夜長", "晝夜一樣長", "晝長夜短", "晝夜一樣短"],
+    "answer": 0,
+    "explanation": "冬至這一天在北半球的主要特徵是白晝是一年中最短、黑夜是一年中最長的一天。"
+  },
+  {
+    "id": 63,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「除夕」的習俗中，為什麼要貼紅紙？",
+    "options": ["躲避年獸", "驅邪去瘟", "裝飾家門", "慶祝新年"],
+    "answer": 0,
+    "explanation": "除夕時貼紅紙是為了避年獸，這是古老的習俗。"
+  },
+  {
+    "id": 64,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「中元節」放水燈的目的是什麼？",
+    "options": ["祭祀亡靈", "慶祝豐收", "祈求平安", "迎接新年"],
+    "answer": 0,
+    "explanation": "中元節放水燈的目的是祭祀亡靈，讓他們找到回家的路。"
+  },
+   {
+    "id": 65,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "下列傳說故事中,何者與「端午節」有關？",
+    "options": ["孟姜女哭倒萬里長城", "白蛇傳", "梁山伯與祝英台", "牛郎織女"],
+    "answer": 0,
+    "explanation": "白蛇傳是蛇精白素貞與書生許仙相愛，卻被法海和尚鎮壓在雷峰塔下的故事。"
+  }
+]
+
+
+
